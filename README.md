@@ -54,7 +54,7 @@ namespace PascalTriane
 ```
 
 ## Output:
-![o](c#3.png)
+![O](https://github.com/dharanielango/C-Pattern/blob/main/c%233.png)
 
 ## Result:
  Thus,C# program for a pascal's triangle is executed successfully.
